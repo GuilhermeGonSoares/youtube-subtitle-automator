@@ -5,7 +5,7 @@ Esta é uma extensão do Google Chrome que permite automatizar a seleção de le
 ## Como usar
 
 1. Baixe o código fonte da extensão.
-2. Abra o Google Chrome e acesse a página chrome://extensions.
+2. Abra o Google Chrome e acesse a página <a href="chrome://extensions"> chrome://extensions </a>
 3. Clique em "Carregar sem compactação" e selecione a pasta onde o código fonte da extensão foi baixado.
 4. A extensão agora estará disponível no Google Chrome.
 5. Clique no ícone da extensão na barra de ferramentas do Chrome. Selecione o idioma desejado para a legenda.
