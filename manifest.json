@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Set the caption you want",
+  "version": "1.0",
+  "description": "When starting a video it will automatically subtitle for you in the language you want",
+  "permissions": ["tabs", "storage", "activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

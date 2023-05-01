@@ -1,0 +1,12 @@
+form {
+  background-color: #f8f8f8;
+  width: 300px;
+  display: flex;
+  padding: 20px;
+  flex-wrap: w;
+  gap: 1em;
+}
+
+select {
+  width: 100%;
+}
