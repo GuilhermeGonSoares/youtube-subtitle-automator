@@ -10,3 +10,8 @@ form {
 select {
   width: 100%;
 }
+button {
+  background-color: hotpink;
+  color: white;
+  cursor: pointer;
+}
