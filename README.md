@@ -1,3 +1,6 @@
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/99030229/235543676-d4e85e5c-34f9-4d8a-844b-7e255d6a9a12.gif)
+
+
 # Automate Subtitle Selection on YouTube
 
 Esta é uma extensão do Google Chrome que permite automatizar a seleção de legendas nos vídeos do YouTube. Basta selecionar a legenda desejada na extensão e ela irá executar um script que adiciona e altera a legenda para o idioma escolhido.
